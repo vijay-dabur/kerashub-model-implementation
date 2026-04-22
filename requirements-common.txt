@@ -1,0 +1,23 @@
+# Library deps.
+dm-tree
+regex
+rich
+kagglehub
+tokenizers
+sentencepiece
+# Tooling deps.
+pre-commit
+astor
+packaging
+ruff
+pytest
+pytest-cov
+build
+namex
+# Optional deps.
+rouge-score
+tensorflow-datasets
+safetensors
+pillow
+openvino
+transformers
